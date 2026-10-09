@@ -3,3 +3,7 @@ week-4/.env
 __pycache__/
 *.pyc
 .DS_Store
+week-5/terraform.tfvars
+week-5/*.tfstate
+week-5/*.tfstate.*
+week-5/.terraform/
