@@ -1,0 +1,5 @@
+week-3/app/.env
+week-4/.env
+__pycache__/
+*.pyc
+.DS_Store
